@@ -1,2 +1,2 @@
 # react_movieslist
-List of the movies in cards, with few features. Using ReactJS
+List of the movies in cards, having features to delete the movie card and able to like/dislike. Using ReactJS
